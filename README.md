@@ -227,4 +227,28 @@ Created by NBZ (Nabizadeh)
 
 ## License
 
-[Specify your license here]
+**Academic Use Only**
+
+Copyright (c) 2023 NBZ (Nabizadeh)
+
+This software and associated documentation files (the "Software") are provided for academic research and educational purposes only. 
+
+**Terms and Conditions:**
+
+1. **Academic Use Only**: The Software may only be used for academic research, educational purposes, and non-commercial scholarly activities.
+
+2. **No Commercial Use**: You may not use the Software for any commercial purposes, including but not limited to:
+   - Commercial product development
+   - Commercial services
+   - Any form of commercial exploitation
+
+3. **Attribution**: If you use this Software in your research, you must cite the original work appropriately.
+
+4. **No Redistribution**: You may not redistribute, sublicense, or sell copies of the Software without explicit written permission from the copyright holder.
+
+5. **No Warranty**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. **Limitation of Liability**: IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For commercial licensing inquiries, please contact the author.
+
